@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Привет! Меня зовут <a href="https://github.com/PavelMayorov/" target="_blank">Павел</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<!--
-**PavelMayorov/PavelMayorov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Сейчас я изучаю базовые навыки разработки на языке Python. Стремлюсь связать свою профессиональную деятельность с такими направлениями как Process automation / System programming / Database / Backend web-development.
 
-Here are some ideas to get you started:
+В репозитории ниже предствлен мой образовательный путь:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abtcrazy&repo=education_roadmap&show_owner)](https://github.com/PavelMayorov/education_roadmap)
+
+### Навыки
+* ***Process automation:***   requests, beautifulsoup, xml, openpyxl, argparse
+* ***System programming:***   asyncio, aiohttp, flask, flask_restful, telebot
+* ***Database:***   SQLite3, PostgreSQL (psycopg2), Django ORM, SQLAlchemy, pandas
+* ***Backend web-development:***   Django framework
+
+### Контакты
+* [Telegram](https://t.me/m_levap)
+* [Email](mailto:pavelmayorov1996@gmail.com)
