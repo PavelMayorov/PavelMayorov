@@ -7,11 +7,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abtcrazy&repo=education_roadmap&show_owner)](https://github.com/PavelMayorov/education_roadmap)
 
-### Навыки
-* ***Process automation:***   requests, beautifulsoup, xml, openpyxl, argparse
-* ***System programming:***   asyncio, aiohttp, flask, flask_restful, telebot
-* ***Database:***   SQLite3, PostgreSQL (psycopg2), Django ORM, SQLAlchemy, pandas
-* ***Backend web-development:***   Django framework
 
 ### Контакты
 * [Telegram](https://t.me/m_levap)
