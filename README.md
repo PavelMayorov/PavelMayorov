@@ -5,7 +5,7 @@
 
 В репозитории ниже предствлен мой образовательный путь:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abtcrazy&repo=education_roadmap&show_owner)](https://github.com/PavelMayorov/education_roadmap)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PavelMayorov&repo=education_roadmap&show_owner)](https://github.com/PavelMayorov/education_roadmap)
 
 
 ### Контакты
